@@ -102,7 +102,7 @@ cd src/Presentation
 DOTNET_ENVIRONMENT=Development dotnet run
 ```
 
-Por defecto, la API estará disponible en: **`http://localhost:5000`**
+Por defecto, la API estará disponible en: **`http://localhost:5000/swagger/index.html`**
 
 ## 🏗️ Construcción y publicación
 
