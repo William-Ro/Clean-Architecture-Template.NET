@@ -17,7 +17,7 @@
       buildInputs = [
         pkgs.dotnet-sdk_8
         pkgs.dotnet-ef
-        pkgs.jetbrains.rider # Optional
+        #pkgs.jetbrains.rider # Optional
       ];
 
       shellHook = ''
