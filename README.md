@@ -91,7 +91,7 @@ Esto instalará automáticamente:
 
 - **.NET SDK 8**
 - **Entity Framework (`dotnet-ef`)**
-- **JetBrains Rider** (si está configurado en `flake.nix` y tienes `allowUnfree = true` habilitado)
+- **JetBrains Rider** (si está descomentado en `flake.nix` y tienes `allowUnfree = true` habilitado)
 
 ## 🏁 Ejecutar la API
 
