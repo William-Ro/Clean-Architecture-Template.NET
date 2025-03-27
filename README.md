@@ -22,8 +22,8 @@ This repository provides a basic template to start a project in **.NET 8** follo
 The easiest way to start is by cloning this repository:
 
 ```sh
-git clone https://github.com/William-Ro/Clean-Architecture-Template.NET
-cd Clean-Architecture-Template.NET
+git clone https://github.com/William-Ro/clean-architecture-template
+cd clean-architecture-template
 ```
 
 Then, you can modify it according to your needs.
